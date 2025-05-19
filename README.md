@@ -1,4 +1,4 @@
-# Hi there, I'm [Haresh S] 👋
+# Hi there, I'm Haresh S 👋
 
 🚀 Passionate software developer | Open-source enthusiast | Problem solver
 
